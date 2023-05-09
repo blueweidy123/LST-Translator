@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "745246402804",
+    "project_id": "translatejapapp",
+    "storage_bucket": "translatejapapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:745246402804:android:229bfd1e426d48cc8356a1",
+        "android_client_info": {
+          "package_name": "com.blueweidy.lst"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "745246402804-gkegamoaov5j3pv9cbtfut0tghgshtm7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGRpTSEdtlHFcloM-N1_ojqeCT0rGyen0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "745246402804-gkegamoaov5j3pv9cbtfut0tghgshtm7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
