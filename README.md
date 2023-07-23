@@ -9,5 +9,9 @@ Princess Connect Global held a special place in my heart, not only as my favorit
 
 # Key Features:
 Real-time Translation:
-
-![MainScreen-Brower](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230411-172949399.jpg)
+![Translate-Results](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230722-211635208.jpg)
+You can either translate by select image in your device or take screenshoot at moment you like:
+-Overflow other app like msg bubble
+![LST-Overflow](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230723-120730385.jpg)
+-Select your Image
+![LST-Overflow](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230722-215009646.jpg)
