@@ -12,6 +12,8 @@ Real-time Translation:
 ![Translate-Results](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230722-211635208.jpg)
 You can either translate by select image in your device or take screenshoot at moment you like:
 -Overflow other app like msg bubble
-![LST-Overflow](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230723-120730385.jpg)
+<img src="https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230723-120730385.jpg" alt="demoimg" width="50%">
+
 -Select your Image
-![LST-Overflow](https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230722-215009646.jpg)
+<img src="https://raw.githubusercontent.com/blueweidy123/LST-Translator/main/demoImg/Screenshot_20230722-215009646.jpg" alt="demoimg" width="50%">
+
